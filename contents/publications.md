@@ -9,6 +9,6 @@
 
 
 
-- H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*(2025). Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach. <strong>-</strong>. [[Paper]](https://arxiv.org/abs/2504.14137)[[Code]](https://github.com/TemenosMistral/TGAF)
+- H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*(2025). Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach. <strong>-</strong>. [![![Arxiv](https://img.shields.io/badge/arXiv-2504.14137-red.svg)](https://arxiv.org/pdf/2504.14137)[[!Code](https://img.shields.io/badge/code-github-blue?logo=github)](https://github.com/TemenosMistral/TGAF)
 
-- H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*(2025). Enhancing Adversarial Transferability via Component-Wise Transformation. <strong>-</strong>. [[Paper]](https://arxiv.org/abs/2501.11901)
+- H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*(2025). Enhancing Adversarial Transferability via Component-Wise Transformation. <strong>-</strong>. [![Arxiv](https://img.shields.io/badge/arXiv-2501.11901-red.svg)](https://arxiv.org/pdf/2501.11901)
