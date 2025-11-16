@@ -2,7 +2,7 @@
 
 [![Bonovice](https://img.shields.io/badge/Bonovice-github-blue?logo=github)](https://github.com/TemenosMistral)
 
-He is currently a student at Beijing University of Posts and Telecommunications.
+He is currently a student in at Beijing University of Posts and Telecommunications.
 
 #### Contact
 
