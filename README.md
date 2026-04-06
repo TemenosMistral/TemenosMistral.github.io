@@ -11,8 +11,8 @@
 - Adversarial attack. See related work in my homepage.
 
 ### Hobbies
-- 🎮️JRPG. Especially Final Fantasy series and Octopath Traveler series.
-- 🍳Cooking? 
+- 📡Amateur Radio. Licensed Class B operator in China, callsign: BI1WYY. 73 :)
+- 🍳Cooking? Enjoy finding good food and then trying to make it myself.
 - ♟️Chess and 🏓table tennis.
 
 Sadly there is not much to display on my homepage :\(

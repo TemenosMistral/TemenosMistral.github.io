@@ -11,7 +11,7 @@
 
 - <strong>Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach.</strong>
 H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*.
-<strong>AAAI 2026 </strong> (oral)  [[Paper]](https://arxiv.org/abs/2504.14137)[[Code(Coming Soon?)]](https://github.com/TemenosMistral/TGAF)
+<strong>AAAI 2026 </strong> (oral)  [[Paper]](https://doi.org/10.1609/aaai.v40i9.37651)[[Code]](https://github.com/TemenosMistral/TGAF)
 
 - <strong>Enhancing Adversarial Transferability via Component-Wise Transformation.</strong>
 H. Liu, <strong>B. Peng</strong>, P. Ding and D. Wang*.

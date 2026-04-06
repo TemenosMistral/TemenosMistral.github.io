@@ -1,6 +1,6 @@
 
 
-[![Bonovice](https://img.shields.io/badge/Bonovice-github-blue?logo=github)](https://github.com/TemenosMistral) [![Bonovice](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=wdThUE8AAAAJ)
+[![BI1WYY](https://img.shields.io/badge/BI1WYY-github-blue?logo=github)](https://github.com/TemenosMistral) [![BI1WYY](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=wdThUE8AAAAJ)
 
 Currently a student at Beijing University of Posts and Telecommunications.
 
